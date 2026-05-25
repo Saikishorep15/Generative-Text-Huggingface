@@ -9,3 +9,4 @@ All of the following functionalities can be used for auto-regressive language ge
 We will give a tour of the currently most prominent decoding methods, mainly Greedy search, Beam search, and Sampling.
 
 Let's quickly install transformers and load the model. We will use GPT2 in PyTorch for demonstration, but the API is 1-to-1 the same for TensorFlow and JAX.
+ 
