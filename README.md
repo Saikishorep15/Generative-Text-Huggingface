@@ -1,5 +1,5 @@
 Introduction
-In recent years, there has been an increasing interest in open-ended language generation thanks to the rise of large transformer-based language models trained on millions of webpages, including OpenAI's ChatGPT and Meta's LLaMA. The results on conditioned open-ended language generation are impressive, having shown to generalize to new tasks, handle code, or take non-text data as input. Besides the improved transformer architecture and massive unsupervised training data, better decoding methods have also played an important role.
+In recent years, there has been an increasing interest in open-ended language generation thanks to the rise of large transformer-based language models trained on millions of webpages, including OpenAI's ChatGPT and Meta's LLaMA. The results on conditioned open-ended language generation are impressive, having shown to generalize to new tasks, handle code, or take non-text data as input. Besides the improved transformer architecture and massive unsupervised training data, better decoding methods have also played an important role for development
 
 This blog post gives a brief overview of different decoding strategies and more importantly shows how you can implement them with very little effort using the popular transformers library!
 
